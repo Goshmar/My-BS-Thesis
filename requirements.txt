@@ -15,7 +15,6 @@ argon2-cffi-bindings==21.2.0
 array_record==0.7.1
 arviz==0.21.0
 astropy==7.0.1
-astropy-iers-data==0.2025.4.21.0.37.6
 astunparse==1.6.3
 atpublic==5.1
 attrs==25.3.0
@@ -26,7 +25,6 @@ backcall==0.2.0
 backports.tarfile==1.2.0
 beautifulsoup4==4.13.4
 betterproto==2.0.0b6
-bigframes==2.1.0
 bigquery-magics==0.9.0
 bleach==6.2.0
 blinker==1.9.0
@@ -159,7 +157,6 @@ google-cloud-resource-manager==1.14.2
 google-cloud-spanner==3.53.0
 google-cloud-storage==2.19.0
 google-cloud-translate==3.20.2
-google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.7.1
 google-genai==1.12.1
 google-generativeai==0.8.5
@@ -241,13 +238,6 @@ jsonpickle==4.0.5
 jsonpointer==3.0.0
 jsonschema==4.23.0
 jsonschema-specifications==2025.4.1
-jupyter-client==6.1.12
-jupyter-console==6.1.0
-jupyter-leaflet==0.19.2
-jupyter-server==1.16.0
-jupyter_core==5.7.2
-jupyterlab_pygments==0.3.0
-jupyterlab_widgets==3.0.14
 kaggle==1.7.4.2
 kagglehub==0.3.12
 keras==3.8.0
@@ -326,7 +316,6 @@ numba==0.60.0
 numba-cuda==0.2.0
 numexpr==2.10.2
 numpy==2.0.2
-nvidia-cublas-cu12==12.4.5.8
 nvidia-cuda-cupti-cu12==12.4.127
 nvidia-cuda-nvcc-cu12==12.5.82
 nvidia-cuda-nvrtc-cu12==12.4.127
@@ -564,7 +553,6 @@ tweepy==4.15.0
 typeguard==4.4.2
 typer==0.15.2
 types-pytz==2025.2.0.20250326
-types-setuptools==79.0.0.20250422
 typing-inspection==0.4.0
 typing_extensions==4.13.2
 tzdata==2025.2
