@@ -45,7 +45,7 @@ Estimated business impact: 78M rub/year
 This part focuses on increasing product completeness in customer baskets through real-time SKU suggestions. It includes collaborative filtering, neural models, and embedding-based clustering.
 
 ### 📊 Data Workflow
-Raw Data: ```data/raw/`` exported ERP orders with item metadata
+Raw Data: ```data/raw/``` exported ERP orders with item metadata
 
 Filtering: ```data/interim/``` is intermediate versions after cleaning
 
@@ -97,7 +97,7 @@ To reproduce the full pipeline:
 
 4. Compare integration results using notebooks from ```notebooks/```
 
-Refer to key practice paper ```src``` and  ```thesis/`` for leterature review and methodology
+Refer to key practice paper ```src``` and  ```thesis/``` for leterature review and methodology
 
 Explore ```erp_modifications/``` for real-world ERP logic (1C implementation)
 
